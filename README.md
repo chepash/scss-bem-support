@@ -27,8 +27,8 @@ Go to `Keyboard Shortcuts` then search for `Developer: Inspect TM Scopes`.
 
 **v0.1.0**
 
-- Added support for `&_modifier` or `&_key_modifier` notation
-- Improved handling of highlighting after single-line comments
+- Add support for `&_modifier` or `&_key_modifier` notation
+- Improve handling of highlighting after single-line comments
 
 **v0.0.6**
 
@@ -55,7 +55,7 @@ For comments, questions and suggestions, go [here](https://github.com/chepash/sc
 ## Contributors
 
 - Danny McGee - [@dannymcgee](https://github.com/dannymcgee)
-- Pavel Cherdantsev - [@chaepash](https://github.com/chepash)
+- Pavel Cherdantsev - [@chepash](https://github.com/chepash)
 
 ## License
 
