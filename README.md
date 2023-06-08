@@ -3,6 +3,7 @@
 This extension adds TextMate scope to BEM element and modifier which can be useful in syntax highlighting.
 
 ![screenshot](https://raw.githubusercontent.com/chepash/scss-bem-support/main/assets/screenshot-v0.1.0.png)
+
 ![screenshot](https://raw.githubusercontent.com/chepash/scss-bem-support/main/assets/screenshot-v0.0.5.png)
 
 ## BEM – Block Element Modifier
@@ -26,8 +27,8 @@ Go to `Keyboard Shortcuts` then search for `Developer: Inspect TM Scopes`.
 
 **v0.1.0**
 
-- Added support for `&_modifier` or `&_key_modifier` notation.
-- Improved handling of highlighting after single-line comments.4
+- Added support for `&_modifier` or `&_key_modifier` notation
+- Improved handling of highlighting after single-line comments
 
 **v0.0.6**
 
@@ -58,6 +59,6 @@ For comments, questions and suggestions, go [here](https://github.com/chepash/sc
 
 ## License
 
-© 2023 [Pavel Cherdantsev](https://github.com/chepash)
+© 2019 [Jolo Yonaha](https://github.com/joloyonaha)
 
 [MIT License](https://github.com/chepash/scss-bem-support/blob/main/LICENSE)
