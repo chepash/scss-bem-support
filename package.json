@@ -1,9 +1,9 @@
 {
-  "name": "scss-bem-support",
-  "displayName": "SCSS BEM Support",
+  "name": "scss-bem-highlight",
+  "displayName": "SCSS BEM highlight",
   "description": "Plugin that provides syntax highlighting for BEM notation in SCSS files",
   "version": "0.1.0",
-  "publisher": "Pavel Cherdantsev",
+  "publisher": "PavelCherdantsev",
   "icon": "assets/bem.png",
   "engines": { "vscode": "^1.33.0" },
   "categories": ["Other"],
