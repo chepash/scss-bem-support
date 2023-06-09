@@ -14,10 +14,14 @@ This extension adds TextMate scope to BEM element and modifier which can be usef
 
 ```scss
 .block {
-  &__element { } // bem.support.element.scss
-  &--modifier { } // bem.support.modifier.scss
-  &_modifier { } // bem.support.modifier.scss
-  &_key_value { } // bem.support.modifier.scss
+  &__element {
+  } // bem.support.element.scss
+  &--modifier {
+  } // bem.support.modifier.scss
+  &_modifier {
+  } // bem.support.modifier.scss
+  &_key_value {
+  } // bem.support.modifier.scss
 }
 ```
 
