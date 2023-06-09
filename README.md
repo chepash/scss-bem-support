@@ -1,5 +1,11 @@
 # SCSS BEM Highlight
 
+[![Version](https://img.shields.io/visual-studio-marketplace/v/your-marketplace-extension-id.svg)](https://marketplace.visualstudio.com/items?itemName=PavelCherdantsev.scss-bem-highlight)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/your-marketplace-extension-id.svg)](https://marketplace.visualstudio.com/items?itemName=PavelCherdantsev.scss-bem-highlight)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/your-marketplace-extension-id.svg)](https://marketplace.visualstudio.com/items?itemName=PavelCherdantsev.scss-bem-highlight)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/your-marketplace-extension-id.svg)](https://marketplace.visualstudio.com/items?itemName=PavelCherdantsev.scss-bem-highlight)
+
+
 This extension adds TextMate scope to BEM element and modifier which can be useful in syntax highlighting.
 
 > Note: SCSS BEM Highlight is an enhanced fork of the original plugin developed by Jolo Yonaha. For the original project, please visit [Jolo Yonaha's SCSS BEM Support repository](https://github.com/joloyonaha/scss-bem-support). But sadly the original project hasn't received any updates since 2019.
