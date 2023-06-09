@@ -1,6 +1,6 @@
 {
   "name": "scss-bem-highlight",
-  "displayName": "SCSS BEM highlight",
+  "displayName": "SCSS BEM Highlight",
   "description": "Plugin that provides syntax highlighting for BEM notation in SCSS files",
   "version": "0.1.0",
   "publisher": "PavelCherdantsev",
@@ -16,5 +16,8 @@
     }]
   },
   "author": "joloyonaha",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -rf build && mkdir build && vsce package --out build/"
+  }
 }

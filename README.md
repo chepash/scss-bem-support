@@ -1,6 +1,10 @@
-# SCSS BEM Support
+# SCSS BEM Highlight
 
 This extension adds TextMate scope to BEM element and modifier which can be useful in syntax highlighting.
+
+> Note: SCSS BEM Highlight is an enhanced fork of the original plugin developed by Jolo Yonaha. For the original project, please visit [Jolo Yonaha's SCSS BEM Support repository](https://github.com/joloyonaha/scss-bem-support). But sadly the original project hasn't received any updates since 2019.
+
+## Preview
 
 ![screenshot](https://raw.githubusercontent.com/chepash/scss-bem-support/main/assets/screenshot-v0.1.0.png)
 
@@ -10,14 +14,22 @@ This extension adds TextMate scope to BEM element and modifier which can be usef
 
 ```scss
 .block {
-  &__element {} // bem.support.element.scss
-  &--modifier {} // bem.support.modifier.scss
-  &_modifier  {} // bem.support.modifier.scss
-  &_key_modifier {} // bem.support.modifier.scss
+  &__element { } // bem.support.element.scss
+  &--modifier { } // bem.support.modifier.scss
+  &_modifier { } // bem.support.modifier.scss
+  &_key_value { } // bem.support.modifier.scss
 }
 ```
 
 More info about BEM [here](https://getbem.com/).
+
+## Installation
+
+1. Launch Visual Studio Code.
+2. Go to the Extensions view by clicking on the square icon in the sidebar.
+3. Search for "SCSS BEM Highlight" in the Marketplace.
+4. Click on the "Install" button next to the SCSS BEM Highlight extension.
+5. Once installed, the extension will be activated automatically.
 
 ## TextMate Scope
 
@@ -27,7 +39,7 @@ Go to `Keyboard Shortcuts` then search for `Developer: Inspect TM Scopes`.
 
 **v0.1.0**
 
-- Add support for `&_modifier` or `&_key_modifier` notation
+- Add support for `&_modifier` or `&_key_value` notation
 - Improve handling of highlighting after single-line comments
 
 **v0.0.6**
